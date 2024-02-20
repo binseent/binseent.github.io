@@ -1,0 +1,41 @@
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+body{
+
+    background-color: pink;
+    visibility: hidden;
+}
+
+a{
+    visibility: visible;
+    font-size: 2.5em;
+    color: white;
+}
+
+.photo {
+    display: block;
+    margin-left: 230px;
+    width: 500px;
+    position: absolute;
+    top: 25%;
+    transform: translateY(-50%);
+    visibility: visible;
+    transform: rotate(90deg);\
+}
+
+h3 {
+    display: block;
+    color: white;
+    position: relative;
+    top: 550px;
+    visibility: visible;
+    text-align: center;
+    font-size: 3em;
+    
+}
+

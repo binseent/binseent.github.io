@@ -1,0 +1,33 @@
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+a{
+    font-size: 2.5em;
+    color: white;
+}
+
+h1{
+    font-size: 5em;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: absolute;
+    top: 25%;
+    left: 28%;
+    color: white;
+
+}
+
+body {
+    background-image: url(images/home.jpg);
+    background-repeat: no-repeat;
+    background-color: pink;
+    background-size: 1000px;
+    background-position: center;
+    background-position-y: 700px;
+}
